@@ -1,12 +1,10 @@
 # web3-toolbox
 该项目灵感来源于 [Web3_Tutoria](https://github.com/gm365/Web3_Tutorial)。在该项目下有一些常用的代码片段，这些代码片段涵盖了日常交易过程中的常用操作：
 
-[生成eth地址](./account.py)
-[操作csv](./csv.py)
-[eth转账-转eth到账户](./transferETH.py)
-[eth转账-转eth到合约地址](./transferETHToContract.py)
-[eths铭文](./ethscriptions.py)
-[监控交易中的input数据](./monitor_input.py)
+* [生成eth地址](./account.py)
+* [eth转账-转eth到账户](./transferETH.py)
+* [eths铭文](./ethscriptions.py)
+* [监控交易中的input数据](./monitor_input.py)
 
 ## 注意
 1. 使用该项目下的代码，首先需要创建一个名为 .env 的文件，在该文件中写入
