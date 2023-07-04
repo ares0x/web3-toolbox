@@ -5,6 +5,7 @@
 * [eth转账-转eth到账户](./transferETH.py)
 * [eths铭文](./ethscriptions.py)
 * [监控交易中的input数据](./monitor_input.py)
+* [vmpx mint](./vmpx.py)
 
 ## 注意
 1. 使用该项目下的代码，首先需要创建一个名为 .env 的文件，在该文件中写入
